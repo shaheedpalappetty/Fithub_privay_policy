@@ -9,9 +9,7 @@ Welcome to Fithub, your fitness companion app. Fithub helps users plan personali
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
